@@ -1,0 +1,146 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+
+:root {
+    --ifm-font-size-base: 95%;
+    --ifm-code-font-size: 95%;
+    --ifm-color-primary: #529AFD;
+    --ifm-color-primary-dark: #3187fd;
+    --ifm-color-primary-darker: #207dfc;
+    --ifm-color-primary-darkest: #0363e8;
+    --ifm-color-primary-light: #6ca9fd;
+    --ifm-color-primary-lighter: #7ab1fd;
+    --ifm-color-primary-lightest: #98c3fe;
+    --ifm-color-docSearch-background: #fff;
+    --ifm-color-Lochmara: #07c;
+    --ifm-navbar-height: 80px;
+}
+
+.alert--info {
+    background-color: #529AFD;
+}
+
+.docusaurus-highlight-code-line {
+    background-color: rgb(72, 77, 91);
+    display: block;
+    margin: 0 calc(-1 * var(--ifm-pre-padding));
+    padding: 0 var(--ifm-pre-padding);
+}
+
+.roadmap {
+
+}
+
+.roadmap li {
+    font-size: 17px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    line-height: 40px;
+    align-items: center;
+}
+
+
+.roadmap input[type=checkbox] {
+    transform: scale(1.5);
+}
+
+.roadmap input[type=checkbox] {
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
+    cursor: pointer;
+    font-size: 17px;
+    visibility: hidden;
+}
+
+.roadmap input[type=checkbox]:after {
+    content: " ";
+    background-color: #fff;
+    display: inline-block;
+    color: #529AFD;
+    width: 17px;
+    height: 20px;
+    visibility: visible;
+    border: 1px solid #529AFD;
+    padding-left: 3px;
+    margin-top: 4px;
+    border-radius: 5px;
+}
+
+.roadmap input[type=checkbox]:checked:after {
+    content: "\2714";
+    padding: -5px;
+    font-weight: bold;
+}
+
+.roadmap-legacy {
+
+}
+
+.roadmap-legacy li {
+    font-size: 17px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    line-height: 40px;
+    align-items: center;
+}
+
+.roadmap-legacy input[type=checkbox] {
+    transform: scale(1.5);
+}
+
+.roadmap-legacy input[type=checkbox] {
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
+    cursor: pointer;
+    font-size: 17px;
+    visibility: hidden;
+}
+
+.roadmap-legacy input[type=checkbox]:after {
+    content: " ";
+    background-color: #fff;
+    display: inline-block;
+    color: #98a0ac;
+    width: 17px;
+    height: 20px;
+    visibility: visible;
+    border: 1px solid #98a0ac;
+    padding-left: 3px;
+    margin-top: 4px;
+    border-radius: 5px;
+}
+
+.roadmap-legacy input[type=checkbox]:checked:after {
+    content: "\2714";
+    padding: -5px;
+    font-weight: bold;
+}
+
+.navbar__title {
+    color: var(--ifm-color-Lochmara);
+}
+
+.navbar__item {
+    font-size: 16px;
+}
+
+a.navbar__item[href*="https://attrace.com"] {
+    background: var(--ifm-color-Lochmara);
+    border-radius: 40px;
+    color: #fff;
+}
+
+.DocSearch-Button.DocSearch {
+    border: 1px solid #ededed;
+    background: var(--ifm-color-docSearch-background);
+}
