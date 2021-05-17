@@ -162,19 +162,6 @@ module.exports = {
   ],
 
   plugins: [
-    // software section
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'software',
-        path: 'software',
-        routeBasePath: 'software',
-        editUrl: 'https://gitlab.com/attrace/docs.attrace.com/-/blob/master/',
-        includeCurrentVersion: true,
-        lastVersion: 'current',
-      },
-    ],
-
 
     // guides section
     [
