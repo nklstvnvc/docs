@@ -11,7 +11,7 @@ module.exports = {
   organizationName: 'attrace', // Usually your GitHub org/user name.
   projectName: 'docs.attrace.com', // Usually your repo name.
   customFields: {
-    baseEditUrl: 'https://gitlab.com/attrace/docs.attrace.com/-/blob/master/',
+    baseEditUrl: 'https://github.com/attrace/docs/-/blob/master/',
   },
   themeConfig: {
     sidebarCollapsible: true,
@@ -130,7 +130,7 @@ module.exports = {
       //     items: [
       //       {
       //         label: 'GitLab',
-      //         href: 'https://gitlab.com/attrace/docs.attrace.com',
+      //         href: 'https://github.com/attrace/docs',
       //       },
       //       {
       //         label: 'Attrace.com',
@@ -170,7 +170,7 @@ module.exports = {
         id: 'guides',
         path: 'guides',
         routeBasePath: 'guides',
-        editUrl: 'https://gitlab.com/attrace/docs.attrace.com/-/blob/master/',
+        editUrl: 'https://github.com/attrace/docs/-/blob/master/',
         includeCurrentVersion: true,
         lastVersion: 'current',
         sidebarPath: require.resolve('./sidebars.guides.js'),
@@ -184,7 +184,7 @@ module.exports = {
         id: 'reference',
         path: 'reference',
         routeBasePath: 'reference',
-        editUrl: 'https://gitlab.com/attrace/docs.attrace.com/-/blob/master/',
+        editUrl: 'https://github.com/attrace/docs/-/blob/master/',
         includeCurrentVersion: true,
         lastVersion: 'current',
         sidebarPath: require.resolve('./sidebars.reference.js'),
@@ -199,7 +199,7 @@ module.exports = {
         id: 'roadmap',
         path: 'roadmap',
         routeBasePath: 'roadmap',
-        editUrl: 'https://gitlab.com/attrace/docs.attrace.com/-/blob/master/',
+        editUrl: 'https://github.com/attrace/docs/-/blob/master/',
         includeCurrentVersion: true,
         lastVersion: 'current',
       },
