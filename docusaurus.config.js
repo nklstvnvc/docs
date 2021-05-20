@@ -1,8 +1,8 @@
 const path = require('path');
 
 module.exports = {
-  title: 'Attrace Referral Layer For The Tokenized Economy',
-  tagline: 'Attrace Referral Layer For The Tokenized Economy\n',
+  title: 'Attrace Referral Network',
+  tagline: 'Referral Layer For The Tokenized Economy\n',
   url: 'https://docs.attrace.com', // Live
   // url: 'https://attrace-org-docs.netlify.app', // Url testing
   baseUrl: '/',
