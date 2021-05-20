@@ -9,10 +9,12 @@ _May 10th 2021: This page is still work in progress. Documentation is being writ
 ## Resources
 Repository: https://github.com/attrace/eth-contracts 
 
-### Ethereum Rinkeby
+## Ethereum
 
 #### ATTR token:
-https://rinkeby.etherscan.io/address/0x926362b451A012F72b34240F36C3bDc163d462e0
+https://etherscan.io/address/0x44e2deC86B9F0e0266E9AA66e10323A2bd69CF9A
+
+### Ethereum Rinkeby (testnet)
 
 #### Referral token (WIP)
 https://rinkeby.etherscan.io/address/0xc989277F271Ab5ed90704f4C0f6aDa7F69cb1870
