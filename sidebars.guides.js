@@ -1,12 +1,12 @@
-// module.exports = {
-//   guides: [
-//     'guides',
-//     {
-//       type: 'category',
-//       label: 'Verifier Nodes',
-//       items: [
-//         'verifier-nodes/intro',
-//       ]
-//     }
-//   ]
-// };
+module.exports = {
+  guides: [
+    'guides',
+    {
+      type: 'category',
+      label: 'ATTR Token',
+      items: [
+        'attr-token/add-to-wallet',
+      ]
+    }
+  ]
+};
