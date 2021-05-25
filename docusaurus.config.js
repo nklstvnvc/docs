@@ -53,6 +53,12 @@ module.exports = {
           label: 'Roadmap',
           position: 'left',
         },
+        {
+          to: 'updates/',
+          activeBasePath: 'updates',
+          label: 'Updates',
+          position: 'left',
+        },
 
         // {
         //   label: 'API',
@@ -191,6 +197,9 @@ module.exports = {
       },
     ],
 
+    // reference section
+
+
 
     // roadmap section
     [
@@ -202,6 +211,19 @@ module.exports = {
         editUrl: 'https://github.com/attrace/docs/-/blob/master/',
         includeCurrentVersion: true,
         lastVersion: 'current',
+      },
+    ],
+    // updates section
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'updates',
+        path: 'updates',
+        routeBasePath: 'updates',
+        editUrl: 'https://github.com/attrace/docs/-/blob/master/',
+        includeCurrentVersion: true,
+        lastVersion: 'current',
+        sidebarPath: require.resolve('./sidebars.updates.js'),
       },
     ],
 
