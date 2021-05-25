@@ -1,5 +1,6 @@
 module.exports = {
-    guides: [
-        'may-2021'
-    ]
+	updates: [
+		'updates',
+		'2021-may'
+	]
 };

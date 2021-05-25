@@ -11,7 +11,7 @@ module.exports = {
   organizationName: 'attrace', // Usually your GitHub org/user name.
   projectName: 'docs.attrace.com', // Usually your repo name.
   customFields: {
-    baseEditUrl: 'https://github.com/attrace/docs/-/blob/master/',
+    baseEditUrl: 'https://github.com/attrace/docs/edit/master/',
   },
   themeConfig: {
     sidebarCollapsible: true,
@@ -176,7 +176,7 @@ module.exports = {
         id: 'guides',
         path: 'guides',
         routeBasePath: 'guides',
-        editUrl: 'https://github.com/attrace/docs/-/blob/master/',
+        editUrl: 'https://github.com/attrace/docs/edit/master/',
         includeCurrentVersion: true,
         lastVersion: 'current',
         sidebarPath: require.resolve('./sidebars.guides.js'),
@@ -190,16 +190,12 @@ module.exports = {
         id: 'reference',
         path: 'reference',
         routeBasePath: 'reference',
-        editUrl: 'https://github.com/attrace/docs/-/blob/master/',
+        editUrl: 'https://github.com/attrace/docs/edit/master/',
         includeCurrentVersion: true,
         lastVersion: 'current',
         sidebarPath: require.resolve('./sidebars.reference.js'),
       },
     ],
-
-    // reference section
-
-
 
     // roadmap section
     [
@@ -208,11 +204,12 @@ module.exports = {
         id: 'roadmap',
         path: 'roadmap',
         routeBasePath: 'roadmap',
-        editUrl: 'https://github.com/attrace/docs/-/blob/master/',
+        editUrl: 'https://github.com/attrace/docs/edit/master/',
         includeCurrentVersion: true,
         lastVersion: 'current',
       },
     ],
+
     // updates section
     [
       '@docusaurus/plugin-content-docs',
@@ -220,15 +217,12 @@ module.exports = {
         id: 'updates',
         path: 'updates',
         routeBasePath: 'updates',
-        editUrl: 'https://github.com/attrace/docs/-/blob/master/',
+        editUrl: 'https://github.com/attrace/docs/edit/master/',
         includeCurrentVersion: true,
         lastVersion: 'current',
         sidebarPath: require.resolve('./sidebars.updates.js'),
       },
     ],
 
-
-
-    
   ],
 };
