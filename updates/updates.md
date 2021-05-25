@@ -4,7 +4,7 @@ title: May 2021
 slug: /
 ---
 - various bugs fixed concerning loading assets from external markets
-- improved IPFS deployment and js libaries
+- improved IPFS deployment and js libraries
 ---
 Updates:
 -  ERC20 claim distribution is in progress, claims being processed on daily base.
