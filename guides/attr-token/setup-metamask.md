@@ -1,10 +1,10 @@
 ---
-title: Metamask & ETH Address
-sidebar_label: Metamask + ETH Address
+title: MetaMask & ETH Address
+sidebar_label: MetaMask + ETH Address
 ---
 This video is for beginners, that need to set up their crypto wallet and obtain the ETH address.
 :::note
-Video below assumes you have Google Chrome installed, it will add Metamask wallet as an extension.
+Video below assumes you have Google Chrome installed, it will add MetaMask wallet as an extension.
 :::note
 
 <iframe width="780" height="500" src="https://www.youtube.com/embed/uUja3Yjay1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
