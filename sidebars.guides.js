@@ -6,6 +6,7 @@ module.exports = {
       label: 'ATTR Token',
       items: [
         'attr-token/add-to-wallet',
+        'attr-token/setup-metamask',
       ]
     }
   ]
