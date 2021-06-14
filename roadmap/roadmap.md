@@ -16,12 +16,17 @@ _2021 - now_
 - [x] Attrace Referral Marketplace Launch (NTF Referrals)
 - [x] Attrace Outlet Launch (NFT Cashback)
 - [ ] Support of ERC1155 referrals and cashback
-- [ ] DApps Referrals on Attrace Referral Marketplace and Attrace Outlet
+- [ ] DApps Referrals on Attrace Referral Marketplace
+  - [x] Attrace IDO Referral
+  - [ ] ATTR liquidity provision
 - [ ] Ethereum based DApps and fungible token referables implemented on Ethereum contract
+  - [x] IDO Referrals
+  - [x] Liquidity provision referrals
 - [ ] Ethereum based NFTs, DApps, and fungible token referables implemented on BSC contract
-- [ ] Integration with Trust Wallet to capture referral token
+- [x] Integration with Trust Wallet to capture referral to support multiple wallets
 - [ ] ATTR Staking on Verifier Nodes
 - [ ] Batch NFT Referrals listing and promotion via Attrace Referral Marketplace
+- [ ] NFT Bounty airdrops (unchecked)
 - [ ] NFT Promoter Spaces on Attrace Referral Marketplace
 - [ ] NFT Bounty support on Attrace Referral Marketplace
 - [ ] NFT and fungible token referrals implemented on Optimistic Rollup
@@ -46,4 +51,4 @@ _2018 - 2020 (legacy)_
 
 **Decision to deviate from Attrace Classic to the Attrace Referral Network**
 
-_Last update: May 12th 2021_
+_Last update: June 14th 2021_
