@@ -21,9 +21,9 @@ _2021 - now_
   - [ ] ATTR liquidity provision
 - [ ] Ethereum based DApps and fungible token referables implemented on Ethereum contract
   - [x] IDO Referrals
-  - [x] Liquidity provision referrals
+  - [ ] Liquidity provision referrals
 - [ ] Ethereum based NFTs, DApps, and fungible token referables implemented on BSC contract
-- [x] Integration with Trust Wallet to capture referral to support multiple wallets
+- [x] Integration with multiple wallets to capture referrals
 - [ ] ATTR Staking on Verifier Nodes
 - [ ] Batch NFT Referrals listing and promotion via Attrace Referral Marketplace
 - [ ] NFT Bounty airdrops 
