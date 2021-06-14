@@ -26,7 +26,7 @@ _2021 - now_
 - [x] Integration with Trust Wallet to capture referral to support multiple wallets
 - [ ] ATTR Staking on Verifier Nodes
 - [ ] Batch NFT Referrals listing and promotion via Attrace Referral Marketplace
-- [ ] NFT Bounty airdrops (unchecked)
+- [ ] NFT Bounty airdrops 
 - [ ] NFT Promoter Spaces on Attrace Referral Marketplace
 - [ ] NFT Bounty support on Attrace Referral Marketplace
 - [ ] NFT and fungible token referrals implemented on Optimistic Rollup
