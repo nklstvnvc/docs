@@ -38,11 +38,11 @@
 }
 
 .roadmap li {
-    font-size: 17px;
+    font-size: 15px;
     list-style: none;
     /*display: flex;*/
     flex-direction: row;
-    line-height: 35px;
+    line-height: 20px;
     display: block;
 }
 
@@ -56,11 +56,11 @@
 }
 
 .roadmap input[type=checkbox] {
-    width: 30px;
-    height: 30px;
-    margin-right: 0px;
+    width: 24px;
+    height: 24px;
+    margin-right: -5px;
     cursor: pointer;
-    font-size: 17px;
+    font-size: 13px;
     visibility: hidden;
 }
 
@@ -69,44 +69,51 @@
     background-color: #fff;
     display: inline-block;
     color: #529AFD;
-    width: 15px;
-    height: 18px;
+    width: 12px;
+    height: 15px;
     visibility: visible;
     border: 1px solid #529AFD;
-    padding-left: 3px;
-    margin-top: 10px;
+    padding-left: 2px;
+    margin-top: 8px;
     border-radius: 5px;
 }
 
 .roadmap input[type=checkbox]:checked:after {
     content: "\2714";
-    padding: -4px;
+    padding: -1px;
     font-weight: bold;
 }
+
+
 
 .roadmap-legacy {
 
 }
 
 .roadmap-legacy li {
-    font-size: 17px;
+    font-size: 15px;
     list-style: none;
-    display: flex;
+    /*display: flex;*/
     flex-direction: row;
-    line-height: 40px;
-    align-items: center;
+    line-height: 20px;
+    display: block;
 }
+
+.roadmap-legacy li ul {
+    padding-left: 50px;
+}
+
 
 .roadmap-legacy input[type=checkbox] {
     transform: scale(1.5);
 }
 
 .roadmap-legacy input[type=checkbox] {
-    width: 30px;
-    height: 30px;
-    margin-right: 8px;
+    width: 24px;
+    height: 24px;
+    margin-right: -5px;
     cursor: pointer;
-    font-size: 17px;
+    font-size: 13px;
     visibility: hidden;
 }
 
@@ -114,21 +121,22 @@
     content: " ";
     background-color: #fff;
     display: inline-block;
-    color: #98a0ac;
-    width: 17px;
-    height: 20px;
+    border: 1px solid #98a0ac;
+    width: 12px;
+    height: 15px;
     visibility: visible;
     border: 1px solid #98a0ac;
-    padding-left: 3px;
-    margin-top: 4px;
+    padding-left: 2px;
+    margin-top: 8px;
     border-radius: 5px;
 }
 
 .roadmap-legacy input[type=checkbox]:checked:after {
     content: "\2714";
-    padding: -5px;
+    padding: -1px;
     font-weight: bold;
 }
+
 
 .navbar__title {
     color: var(--ifm-color-Lochmara);

@@ -24,6 +24,7 @@ _2021 - now_
   - [ ] Liquidity provision referrals
 - [ ] Ethereum based NFTs, DApps, and fungible token referables implemented on BSC contract
 - [x] Integration with multiple wallets to capture referrals
+- [ ] Referral link URL shortener
 - [ ] ATTR Staking on Verifier Nodes
 - [ ] Batch NFT Referrals listing and promotion via Attrace Referral Marketplace
 - [ ] NFT Bounty airdrops 
@@ -31,6 +32,7 @@ _2021 - now_
 - [ ] NFT Bounty support on Attrace Referral Marketplace
 - [ ] NFT and fungible token referrals implemented on Optimistic Rollup
 - [ ] Attrace Wallet Launch
+
 
 </div>
 
