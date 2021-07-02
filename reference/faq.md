@@ -14,4 +14,6 @@ No, Attrace Referral Network does not require integration with projects' smart c
 ### How does attrace make money?
 Attrace wants to become a DAO, and the part of the Network Fees would be the only source of income for DAO Treasury in the future. Network Fees are required to use Attrace which also creates demand for ATTR which is sufficient benefit for the ATTR token holders. 
 
-
+### How does an IDO promotion work with KYC?
+The IDO platform might require for you to know your customer. Before the IDO there will be a period of time in which the participants can go through the KYC process. Apart from their personal details and ID verification,
+they need to provide their ETH addresses as well. These addresses will be used as a whitelist for the IDO, in other words you cannot participate without completing the KYC process. 
