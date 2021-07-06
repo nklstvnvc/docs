@@ -7,6 +7,7 @@ module.exports = {
       items: [
         'attr-token/add-to-wallet',
         'attr-token/setup-metamask',
+        'attr-token/swap-eth-for-attr',
       ]
     }
   ]
