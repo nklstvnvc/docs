@@ -226,7 +226,6 @@ module.exports = {
 
   ],
   scripts: [
-    // Object format.
     {
       src:
           'https://stats.attrace.com/latest.js',
