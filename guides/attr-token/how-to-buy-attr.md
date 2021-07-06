@@ -33,11 +33,11 @@ Always backup your wallet. If you lose your private key or seedphrase, all your 
 
 
 ## Adding ATTR token to your wallet
-By default, MetaMask will *not* show the ATTR balance in your wallet, you need to first add the ERC20 contract to your MetaMask wallet. With the link below the token should be automatically added to your MetaMask wallet:
+By default, MetaMask will *not* show the ATTR balance in your wallet, you need to first add the ERC20 contract to your MetaMask wallet. 
 
-<a href="#" id="add-token-to-wallet">Add ATTR token to MetaMask</a>
+<strong><a href="#" id="add-token-to-wallet">Click this link to automatically add ATTR token to your MetaMask wallet</a></strong><br/><br/>
 
-If this does not work, you can try to add the token manually, by following [this tutorial](/guides/attr-token/add-to-wallet)
+If this does not work, you can try to add the token manually, by following [this tutorial](/guides/attr-token/add-to-wallet).
 
 
 ## Swap ETH for $ATTR
