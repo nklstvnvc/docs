@@ -1,4 +1,4 @@
-window.onload = function () {
+window.onload=function(){
     const addTokenToWalletEl = document.getElementById("add-token-to-wallet");
 
     addTokenToWalletEl.addEventListener("click", async (e) => {

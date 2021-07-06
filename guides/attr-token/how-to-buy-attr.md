@@ -21,8 +21,10 @@ If you already have MetaMask or another crypto wallet set up, you can skip this 
 In this tutorial we use MetaMask with Chrome, but you can use any other crypto wallet compatible with the DEX you want to trade on.
 :::note
 <br/><br/>
+<div class="videowrapper">
 <iframe width="780" height="500" src="https://www.youtube.com/embed/uUja3Yjay1A" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-<br/><br/>
+</div>
+
 
 
 :::warning
@@ -48,6 +50,7 @@ Now we will utilise the DEX for exchanging ETH for ATTR token. In the example we
 1. Select the currency you want to swap *from*
 1. Select the currency you want to swap *to*, in our case we lookup the ATTR token
 1. Hit the 'swap' button, and confirm with your crypto wallet.
-
+<div class="videowrapper">
 <iframe width="780" height="500" src="https://www.youtube.com/embed/m5-i4NMYlNM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+</div>
 
